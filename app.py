@@ -20,7 +20,7 @@ import io
 # --------------------------------------------------------------------------
 # CONFIG
 # --------------------------------------------------------------------------
-APP_NAME = "Nirikhan"
+APP_NAME = "Nirikshan"
 DB_PATH = "test_records.db"
 REFERENCE_IMAGES_DIR = os.path.join("images", "reference")
 os.makedirs(REFERENCE_IMAGES_DIR, exist_ok=True)
